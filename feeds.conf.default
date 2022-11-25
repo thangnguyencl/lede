@@ -10,3 +10,4 @@ src-git oui https://github.com/zhaojh329/oui.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git modem https://github.com/4IceG/luci-app-modemband
+src-git luci2 https://github.com/openwrt/luci
