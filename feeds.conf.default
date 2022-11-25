@@ -1,5 +1,5 @@
-src-git packages https://github.com/thangnguyencl/packages
-src-git luci https://github.com/thangnguyencl/luci
+src-git packages https://github.com/coolsnowwolf/packages
+src-git luci https://github.com/xiaowansm5/luci
 src-git routing https://github.com/coolsnowwolf/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git oui https://github.com/zhaojh329/oui.git
@@ -9,3 +9,4 @@ src-git oui https://github.com/zhaojh329/oui.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git modem https://github.com/4IceG/luci-app-modemband
